@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FontDemo</string>
+    <string name="pangram">Prall vom Whisky flog Quax den Jet zu Bruch.</string>
+</resources>
