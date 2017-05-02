@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/FontDemo.iml" filepath="$PROJECT_DIR$/FontDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FontDemoAndroid.iml" filepath="$PROJECT_DIR$/FontDemoAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
