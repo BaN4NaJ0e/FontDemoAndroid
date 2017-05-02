@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="de.meeting.stammtisch.fontdemo.ThirdActivity">
+
+    <TextView
+        android:id="@+id/preset_sizes"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:autoSizePresetSizes="@array/autosize_text_sizes"
+        android:autoSizeText="uniform"
+        android:text="@string/samuel" />
+
+</FrameLayout>
