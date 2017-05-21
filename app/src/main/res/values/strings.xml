@@ -2,7 +2,7 @@
     <string name="app_name">FontDemo</string>
     <string name="pangram">Prall vom Whisky flog Quax den Jet zu Bruch.</string>
 
-    <string name="hello_group">Hello Android Developers</string>
+    <string name="hello_group">Hello Android</string>
 
     <string name="samuel">The path of the righteous man is beset on all sides by the iniquities of the selfish and the tyranny of evil men.</string>
 </resources>
