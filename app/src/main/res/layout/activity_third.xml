@@ -10,8 +10,8 @@
         android:id="@+id/preset_sizes"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        app:autoSizePresetSizes="@array/autosize_text_sizes"
-        app:autoSizeTextType="uniform"
+        android:autoSizePresetSizes="@array/autosize_text_sizes"
+        android:autoSizeTextType="uniform"
         android:text="@string/samuel" />
 
 </FrameLayout>
